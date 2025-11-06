@@ -9,5 +9,4 @@ Un kodā ir divas funkcijas ('start' un 'question2'). Ar pirmo funkciju sakās k
 
 <img width="864" height="743" alt="Ekrānuzņēmums 2025-11-06 153624" src="https://github.com/user-attachments/assets/71968c93-2e35-4b3c-a440-c5f35440035d" />
 
-https://app.diagrams.net/
 https://app.diagrams.net/#G1zimAa0qgyZQmdzSS6SLdaw_dxY9uOFPT#%7B%22pageId%22%3A%22zpAQZHIktGaCWFo00H05%22%7D
