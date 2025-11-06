@@ -7,5 +7,6 @@ Mēs izmantojam 2 klases ('les_jours' un 'subjects_list'). Pirmā klasē ir nede
 
 Un kodā ir divas funkcijas ('start' un 'question2'). Ar pirmo funkciju sakās koda darbošana, ir izvadīts teikums un pēc tā var ievadīt dienās nosaukumu lai uzzinātu stundu sarakstu uz to dienu. Ja ievadīta diena ir darba diena, tad ir izvadīts stundu sarāksts uz šo dienu, ja ievadīta diena ir brivdiena, tad ir izvadīts teksts, ka stundu nav, un ja ievaditais teksts nav kaut kas no dienas sarakstā, tad ir izvadīts teksts "kaut kas ir ievadīts nepareizi".  Otra izvada jautajumu "vai gribi paskatīties sarākstu uz citu dienu?" un ja atbilde ir "oui", tad programma atgriežas uz "start" funkciju. Ja atbilde ir "non", tad programma beidzas un ja atbilde ir kaut kas vispar cits, tad ir izvadīts teksts "ievadi tikai 'oui' vai 'non'!!!!!!"
 
-<img width="871" height="715" alt="Ekrānuzņēmums 2025-10-30 162628" src="https://github.com/user-attachments/assets/b042a9fa-acbe-4976-b3f5-d348362fb2b9" />
+<img width="864" height="743" alt="Ekrānuzņēmums 2025-11-06 153624" src="https://github.com/user-attachments/assets/71968c93-2e35-4b3c-a440-c5f35440035d" />
+
 https://app.diagrams.net/
